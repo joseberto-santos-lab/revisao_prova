@@ -1,0 +1,32 @@
+#sobre {
+  width: 300px;
+  padding: 16px;
+  border: 2px solid #959494;
+  box-sizing: border-box;
+  
+}
+
+#servicos{
+    width: 300px;
+  padding: 16px;
+  border: 2px solid #838383;
+  box-sizing: border-box;
+}
+
+
+#container-cartoes {
+  display: flex; 
+  justify-content: space-evenly; 
+  align-items: center;
+  gap: 20px;
+}
+
+
+#conteudo {
+  width: 100%;
+  max-width: 1200px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin: 0 auto; 
+  box-sizing: border-box;
+}
